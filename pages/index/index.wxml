@@ -1,1 +1,4 @@
+<!--
 <show hdr="{{hdr}}" bg="{{bg}}" models="{{models}}"/>
+-->
+<orbit urls="{{urls}}" images="{{images}}" titles="{{titles}}"/>

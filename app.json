@@ -10,11 +10,12 @@
     },
     "style": "v2",
     "usingComponents": {
-        "orbit":"plugin://ThreeX/orbit"
+        "orbit":"plugin://ThreeX/orbit",
+        "show":"plugin://ThreeX/show"
     },
     "plugins": {
         "ThreeX": {
-          "version": "1.0.5",
+          "version": "1.2.0",
           "provider": "wx74ea3ef7e1e72753",
           "export": "threex.js"
         }
